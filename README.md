@@ -1,5 +1,5 @@
 # QR-CODE-Generator
-Advanced QR code generator in Python using PIL for branding, customization, and creative QR designs
+Advanced QR code generator in Python using PIL for branding, customization, and creative QR designs.
 
 
 An advanced Python project that generates custom QR codes using the Pillow (PIL) library for image processing. This tool not only creates standard QR codes but also allows customization like adding colors, logos, gradients, and text overlays for a more professional look.
